@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "FUTpedia chilena",
+    "slug": "futpedia-chilena",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "futpediachilena",
+    "userInterfaceStyle": "automatic",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
